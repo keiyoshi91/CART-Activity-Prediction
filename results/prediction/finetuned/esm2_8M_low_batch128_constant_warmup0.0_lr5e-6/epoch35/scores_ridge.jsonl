@@ -1,0 +1,5 @@
+{"k": 0, "n_valid": 77, "pearsonr": 0.6147835500971169, "spearmanr": 0.3827751196172248, "precision_top5": 0.2, "precision_top10": 0.1, "recall_top5": 0.05263157894736842, "recall_top10": 0.05263157894736842}
+{"k": 1, "n_valid": 75, "pearsonr": 0.5037112026365876, "spearmanr": 0.40196301564722614, "precision_top5": 0.2, "precision_top10": 0.1, "recall_top5": 0.05263157894736842, "recall_top10": 0.05263157894736842}
+{"k": 2, "n_valid": 80, "pearsonr": 0.45862610744907295, "spearmanr": 0.25297702766057195, "precision_top5": 0.4, "precision_top10": 0.3, "recall_top5": 0.1, "recall_top10": 0.15}
+{"k": 3, "n_valid": 72, "pearsonr": 0.3382331925265535, "spearmanr": 0.28625635089073254, "precision_top5": 0.2, "precision_top10": 0.2, "recall_top5": 0.05555555555555555, "recall_top10": 0.1111111111111111}
+{"k": 4, "n_valid": 78, "pearsonr": 0.47161043708949424, "spearmanr": 0.31600045524096154, "precision_top5": 0.0, "precision_top10": 0.2, "recall_top5": 0.0, "recall_top10": 0.1}
