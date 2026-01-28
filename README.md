@@ -30,5 +30,4 @@ black .
 ```
 isort .
 ```
-<br />
 Please reach out to Kei Yoshida, kei.yoshida.qp@hitachi.com for any issues, comments, questions or suggestions.
