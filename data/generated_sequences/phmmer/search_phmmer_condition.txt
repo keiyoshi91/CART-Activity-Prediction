@@ -1,0 +1,15 @@
+CD28
+
+Job: D6B8A96A-B795-11EF-911A-5196B496F0BA.1
+Started: 2024-12-11 07:59:28
+Algorithm: phmmer
+HMMER Options: -E 1 --domE 1 --incE 0.0001 --incdomE 0.0001 --mx BLOSUM62 --pextend 0.4 --popen 0.02 --seqdb refprot
+
+
+
+CD3z
+
+Job: 288FDE52-B859-11EF-8277-D1F466A1CEFA.1
+Started: 2024-12-12 07:17:38
+Algorithm: phmmer
+HMMER Options: -E 1 --domE 1 --incE 0.0001 --incdomE 0.0001 --mx BLOSUM62 --pextend 0.4 --popen 0.02 --seqdb refprot

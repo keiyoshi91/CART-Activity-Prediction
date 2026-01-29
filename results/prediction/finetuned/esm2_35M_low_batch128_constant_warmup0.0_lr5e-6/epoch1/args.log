@@ -1,0 +1,36 @@
+2025-01-23 16:24:38,782 | INFO | main.py - main - {
+    "args": {
+        "plm_name": "facebook/esm2_t12_35M_UR50D",
+        "plm_type": "finetuned",
+        "finetuned_model_path": "results/finetuning/YM",
+        "finetuned_model_name": "esm2_35M_epoch15_low_batch64_constant_warmup0.0_lr5e-6/models/epoch1.pth",
+        "remove_suffix": "module.",
+        "model_name": "ridge",
+        "dataset_dir": "data/property/YM_2nd/dataset",
+        "log_dir": "results/prediction/YM_2nd/linear_model"
+    }
+}
+2025-01-23 16:25:26,257 | INFO | main.py - main - {
+    "args": {
+        "plm_name": "facebook/esm2_t12_35M_UR50D",
+        "plm_type": "finetuned",
+        "finetuned_model_path": "results/finetuning/YM",
+        "finetuned_model_name": "esm2_35M_epoch15_low_batch64_constant_warmup0.0_lr5e-6/models/epoch1.pth",
+        "remove_suffix": "module.",
+        "model_name": "lasso",
+        "dataset_dir": "data/property/YM_2nd/dataset",
+        "log_dir": "results/prediction/YM_2nd/linear_model"
+    }
+}
+2025-01-23 16:28:28,759 | INFO | main.py - main - {
+    "args": {
+        "plm_name": "facebook/esm2_t12_35M_UR50D",
+        "plm_type": "finetuned",
+        "finetuned_model_path": "results/finetuning/YM",
+        "finetuned_model_name": "esm2_35M_epoch15_low_batch64_constant_warmup0.0_lr5e-6/models/epoch1.pth",
+        "remove_suffix": "module.",
+        "model_name": "lassolars",
+        "dataset_dir": "data/property/YM_2nd/dataset",
+        "log_dir": "results/prediction/YM_2nd/linear_model"
+    }
+}
