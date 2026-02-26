@@ -1,6 +1,6 @@
 # Enhancing CAR-T cell activity prediction via fine-tuning protein language models with generated CAR sequences
 
-This repo contains code for the pape [Enhancing CAR-T cell activity prediction via fine-tuning protein language models with generated CAR sequences]().
+This repo contains code for the paper [Enhancing CAR-T cell activity prediction via fine-tuning protein language models with generated CAR sequences](https://link.springer.com/article/10.1186/s12859-026-06401-7#data-availability).
 
 
 ## Setup
